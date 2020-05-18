@@ -4,3 +4,6 @@
 [submodule "lab_01"]
 	path = lab_01
 	url = https://github.com/ivan-kolesnik/sp-lab-01
+[submodule "lab_02"]
+	path = lab_02
+	url = https://github.com/ivan-kolesnik/sp-lab-02
